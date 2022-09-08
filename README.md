@@ -1,2 +1,3 @@
-# boilerplate-repo
-Boilerplate generic starter repo
+# QR Codes
+
+Simply make QR codes
